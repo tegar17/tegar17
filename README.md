@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Tegar! 👋
 
-<!--
-**tegar17/tegar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find my projects, experiments, and collaborations.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on exciting new projects
+- 🌱 I’m always learning new technologies and frameworks
+- 💬 Ask me about anything related to programming or tech
+- 📫 How to reach me: [Your Email or Social Media]
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Languages: JavaScript, Python, [add your main languages]
+- Tools: Git, VS Code, [add more you use]
+- Frameworks: React, Node.js, [add more]
+
+## 📈 GitHub Stats
+![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegar17&show_icons=true&theme=radical)
+
+## 🌐 Find me around the web
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Portfolio](https://your-portfolio.com)
+
+---
+
+Thank you for visiting! 🚀
