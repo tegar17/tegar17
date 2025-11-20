@@ -6,13 +6,12 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 🔭 I’m currently working on exciting new projects
 - 🌱 I’m always learning new technologies and frameworks
 - 💬 Ask me about anything related to programming or tech
-- 📫 How to reach me: [Your Email or Social Media]
+- 📫 How to reach me: [tegarprasetyo9f@gmail.com]
 - 😄 Pronouns: he/him
 
 ## 🛠️ Technologies & Tools
-- Languages: JavaScript, Python, [add your main languages]
-- Tools: Git, VS Code, [add more you use]
-- Frameworks: React, Node.js, [add more]
+- Languages:  Python
+- Tools: Git, VS Code
 
 ## 📈 GitHub Stats
 ![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegar17&show_icons=true&theme=radical)
