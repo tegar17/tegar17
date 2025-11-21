@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegar17&show_icons=true&theme=radical)
 
 ## 🌐 Find me around the web
-- [LinkedIn](https:[//www.linkedin.com/in/tegar-prasetyo-043340206])
+- [LinkedIn](https://www.linkedin.com/in/tegar-prasetyo-043340206)
 - [Twitter](https://twitter.com/your-profile)
 - [Portfolio](https://your-portfolio.com)
 
