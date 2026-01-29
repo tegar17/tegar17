@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tegar Prasetyo, a **Computer Science** student based in Indonesia. 
+I'm Tegar, a **Computer Science** student based in Indonesia. 
 
 
 I design and build whatever sparks my curiosity.
