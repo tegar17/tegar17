@@ -1,23 +1,18 @@
-# Hi there, I'm Tegar! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find my projects, experiments, and collaborations.
+I'm Tegar Prasetyo, a **Computer Science** student based in Indonesia. 
 
-## 🚀 About Me
-- 🔭 I’m currently working on exciting new projects
-- 🌱 I’m always learning new technologies and frameworks
-- 💬 Ask me about anything related to programming or tech
-- 📫 How to reach me: [tegarprasetyo9f@gmail.com]
-- 😄 Pronouns: he/him
 
-## 🛠️ Technologies & Tools
-- Languages:  Python
-- Tools: Git, VS Code
+I design and build whatever sparks my curiosity.
 
-## 🌐 Find me around the web
-- [LinkedIn](https://www.linkedin.com/in/tegar-prasetyo-043340206)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://your-portfolio.com)
 
----
+I am passionate about AI and building real-world solutions.
 
-Thank you for visiting! 🚀
+
+Currently, I'm falling down the audio processing rabbit hole—shoutout to the YouTube wizards helping me figure out background noise removal, speaker diarization, and music classification.
+
+
+My main tech stack is **Python**, **PyTorch**, **TensorFlow**, and **Scikit-learn**. My favorite tools are **VSCode**and **GitHub**
+
+
+Thank you for visiting! 
