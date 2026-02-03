@@ -15,7 +15,7 @@ Currently, I'm falling down the audio processing rabbit hole—shoutout to the Y
 My main tech stack is **Python**, **PyTorch**, **TensorFlow**, and **Scikit-learn**. My favorite tools are **VSCode**, **Google Colab**, and **GitHub**
 
 
-**Note:** Btw, my profile pict comes from the manhwa *"[Everyone Loves Her](https://myanimelist.net/manga/180338/Everyone_Loves_Her)"* If it caught your eye, check it out!—stunning art and a story worth feeling.
+**Note:** Btw, my profile pict comes from the manhwa *"[Everyone Loves Her]([https://myanimelist.net/manga/180338/Everyone_Loves_Her](https://comic.naver.com/webtoon/list?titleId=837586))"* If it caught your eye, check it out!—stunning art and a story worth feeling.
 
 
 Thank you for visiting! 
